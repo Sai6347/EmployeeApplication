@@ -1,0 +1,9 @@
+com\aita\UserDao.class
+com\aita\UserRowMapper.class
+com\aita\UserService.class
+com\aita\UserServiceImpl.class
+com\aita\UserController.class
+com\aita\UserDataInitializer.class
+com\aita\UserData.class
+com\aita\UserDataConfig.class
+com\aita\UserDaoImpl.class
